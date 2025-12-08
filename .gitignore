@@ -1,0 +1,4 @@
+.vscode
+stock_pred.egg-info/
+__pycache__/
+*.pyc
