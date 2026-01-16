@@ -4,7 +4,7 @@ A machine learning project for predicting stock price movements using technical 
 
 ## Overview
 
-Stock Prediction is a Python package that trains an XGBoost classifier to predict whether a stock's price will go up or down on the next trading day. The model uses technical indicators derived from historical price data and various machine learning features.
+Stock Prediction is a project that trains an XGBoost classifier to predict whether a stock's price will go up or down on the next trading day. The model uses technical indicators derived from historical price data and various machine learning features.
 
 ## Features
 
@@ -91,6 +91,11 @@ stock_pred/
 
 - Python 3.7+
 - See [requirements.txt](requirements.txt) for all dependencies
+
+## To do
+- add API and Docker
+- add Postgres connection to store training history
+- add automatic retraining
 
 ## License
 
